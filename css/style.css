@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+.font-logo{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 8%;
+}
+.h-nav{
+    font-size: 13px;
+    font-weight: 500;
+}
+.h-photo{
+    background-image: url(/img/f1.jpg);
+}
+.h-text1{
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 55px;
+    
+}
+.h-text2{
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 35px;
+    
+}
+.ana{
+    font-size: 75px;
+    font-weight: 500;
+    text-align: center;
+}
+.ana-alt{
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
